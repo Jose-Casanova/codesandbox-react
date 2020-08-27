@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  border-style: solid;
+  border-width: thin;
+  border-color: red;
+  border-radius: 13px;
+  background-color: lightblue;
+  margin-bottom: 105px;
+
+  display: flex;
+  flex-direction: column;
+}
+.App h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+}
+.App h2{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.caja {
+
+
+}
